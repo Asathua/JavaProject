@@ -38,6 +38,8 @@ public class StudentMain {
 		System.out.println(student);
 		System.out.println(regxTest("AU@@11000"));
 		System.out.println("This is Arun");
+		System.out.println(regxTest("AU@@11000"));
+		System.out.println("This is Arun");
 		System.out.println("This is Jrmm");
 	}
 
